@@ -1,123 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Ankesh%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20AI%2FML%20Researcher%20%7C%20Patent%20Holder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22d3ee&height=230&section=header&text=Ankesh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20Researcher&descAlignY=55&descSize=18&descColor=e2e8f0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher+%7C+Indian+Patent+Holder;Building+Agentic+AI+%26+LLM+Systems;Deep+Learning+%2B+NLP+Enthusiast;B.Tech+CSE+%40+Graphic+Era+Hill+University" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Designing+Multi-Agent+AI+Systems;Deep+Learning+%2B+NLP+%2B+RAG;B.Tech+CSE+%40+Graphic+Era+Hill+University;Turning+Research+into+Production" />
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ankeshsingh01&color=7dd3fc&style=flat&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/ankeshsingh01?label=Followers&style=flat&color=7dd3fc" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-6366F1?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ankeshsingh01&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/ankeshsingh01?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=1e293b" />
 
 </div>
 
 <br/>
 
-## Who I Am
+## `01` &nbsp;Profile
 
 ```typescript
 const ankeshSingh = {
-  title: "CS Student & AI/ML Researcher",
+  role: "Computer Science Engineering Student",
+  focus: "AI/ML Research · Agentic Systems · NLP",
   university: "Graphic Era Hill University, Dehradun (2023 – Present)",
   stack: [
     "Python", "C++", "Java", "JavaScript",
     "Flask", "FastAPI", "LangGraph", "AWS", "SQL"
   ],
-  launchedProjects: [
+  shipped: [
     "AI-Assisted Compiler with Intelligent Error Diagnosis",
     "Agentic AI Software Engineering Assistant",
     "Real-Time Sentiment Analysis Chat Platform"
   ],
-  certifications: [
-    "AWS Cloud Practitioner Essentials",
-    "AWS Technical Essentials",
-    "AWS Machine Learning Engineer Associate Curriculum",
-    "NPTEL — Foundation of Cloud IoT Edge ML",
-    "NPTEL — Foundation of Big Data Computing"
-  ],
-  status: "Patent Holder — Genotype-Based Rice Phenotype Prediction (IN202511132247A)",
-  openTo: ["Full-time roles", "AI/ML Research", "Collaborations"]
-};
+  openTo: ["Full-time SDE / ML roles", "Research collaborations", "Internships"]
+} as const;
 ```
 
 <br/>
 
-## Featured Projects
+## `02` &nbsp;Achievements & Recognition
 
-### 🧩 AI-Assisted Compiler with Intelligent Error Diagnosis
+<table>
+<tr>
+<td width="70">🏆</td>
+<td>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshsingh01&repo=ai-compiler-diagnosis&theme=nord&border_color=7dd3fc" />
+**Granted Indian Patent — Genotype-Based Rice Phenotype Prediction**
+*Patent No. 202511132247 A · 2024–2025*
 
-Real-time C-language syntax error detection using N-gram modeling and a Random Forest classifier over TF-IDF features, improving error diagnosis accuracy by 25% and translating cryptic compiler errors into student-friendly guidance.
+Independent research project engineering a unified CNN + Transformer architecture over 1,500+ genomic DNA sequences, advancing precision agriculture through faster crop-disease identification and yield-loss prediction. Validated against real-world biological data across diverse rice genotypes.
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| ML | Scikit-learn, Random Forest, KNN |
-| Features | N-Gram Models, TF-IDF |
-| Backend | Flask |
+</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td>
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankeshsingh01/ai-compiler-diagnosis)
+**AWS Certified** — Cloud Practitioner Essentials · Technical Essentials · Machine Learning Engineer Associate Curriculum
+**NPTEL Certified** — Foundation of Cloud IoT Edge ML · Foundation of Big Data Computing
+
+</td>
+</tr>
+<tr>
+<td>🤝</td>
+<td>
+
+**IEEE Student Branch, GEHU** — Active member contributing to technical events and workshops
+**National Service Scheme (NSS) — Squadron Leader** — Led community outreach and cultural heritage preservation initiatives across Uttarakhand
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 🤖 Agentic AI Software Engineering Assistant
+## `03` &nbsp;Featured Work
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshsingh01&repo=agentic-ai-swe-assistant&theme=nord&border_color=7dd3fc" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Multi-agent AI platform (Planner, Researcher, Coder, Reviewer) using RAG and LLM orchestration to automate debugging and test-case generation, cutting project turnaround time by ~40 hours/month.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshsingh01&repo=ai-compiler-diagnosis&theme=tokyonight&border_color=6366f1" />
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Orchestration | LangGraph, RAG |
-| Backend | FastAPI |
-| Cloud | AWS |
+**AI-Assisted Compiler with Intelligent Error Diagnosis**
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankeshsingh01/agentic-ai-swe-assistant)
+Real-time C-language syntax error detection via N-gram modeling and a Random Forest classifier on TF-IDF features — improved diagnosis accuracy by 25% and translated 15+ cryptic compiler errors into actionable guidance.
+
+`Python` `Scikit-learn` `Flask` `NLP`
+
+[![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankeshsingh01/ai-compiler-diagnosis)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshsingh01&repo=agentic-ai-swe-assistant&theme=tokyonight&border_color=6366f1" />
+
+**Agentic AI Software Engineering Assistant**
+
+Multi-agent platform (Planner, Researcher, Coder, Reviewer) using RAG and LLM orchestration to automate debugging and test generation — cutting turnaround time by ~40 hours/month.
+
+`Python` `LangGraph` `FastAPI` `AWS`
+
+[![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankeshsingh01/agentic-ai-swe-assistant)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Tech Stack
+## `04` &nbsp;Tech Stack
+
+<div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
 
-**Backend & Dev Tools**
+<br/><br/>
 
+**Backend & Tooling**
+<br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,git" />
 
-**Cloud & Databases**
+<br/><br/>
 
+**Cloud & Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,mysql" />
 
+</div>
+
 <br/>
 
-## GitHub Stats
+## `05` &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankeshsingh01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshsingh01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankeshsingh01&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=6366f1&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshsingh01&layout=compact&theme=tokyonight&border_color=6366f1&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=ankeshsingh01&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com?user=ankeshsingh01&theme=tokyonight&border=6366f1&ring=6366f1&fire=22d3ee&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankeshsingh01&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ankeshsingh01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankeshsingh01&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankeshsingh01&theme=tokyo-night&color=6366f1&line=6366f1&point=22d3ee&area=true&hide_border=true" />
 
 </div>
 
 <br/>
 
-## Connect With Me
+## `06` &nbsp;Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankesh-singh-/)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandariankesh902@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankesh-singh-/)
+[![Email](https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandariankesh902@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=120&section=footer" />
