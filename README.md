@@ -139,9 +139,7 @@ Multi-agent platform (Planner, Researcher, Coder, Reviewer) using RAG and LLM or
 
 <img src="https://streak-stats.demolab.com?user=ankeshsingh01&theme=tokyonight&border=6366f1&ring=6366f1&fire=22d3ee&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankeshsingh01&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&title=Stars,Commits,Followers,Repositories" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankeshsingh01&theme=tokyo-night&color=6366f1&line=6366f1&point=22d3ee&area=true&hide_border=true" />
 
 </div>
 
