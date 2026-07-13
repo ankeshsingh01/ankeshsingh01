@@ -81,8 +81,6 @@ Independent research project engineering a unified CNN + Transformer architectur
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ankeshsingh01&repo=ai-compiler-diagnosis&theme=tokyonight&border_color=6366f1" />
-
 **AI-Assisted Compiler with Intelligent Error Diagnosis**
 
 Real-time C-language syntax error detection via N-gram modeling and a Random Forest classifier on TF-IDF features — improved diagnosis accuracy by 25% and translated 15+ cryptic compiler errors into actionable guidance.
@@ -93,8 +91,6 @@ Real-time C-language syntax error detection via N-gram modeling and a Random For
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ankeshsingh01&repo=agentic-ai-swe-assistant&theme=tokyonight&border_color=6366f1" />
 
 **Agentic AI Software Engineering Assistant**
 
