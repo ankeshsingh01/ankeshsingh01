@@ -81,7 +81,7 @@ Independent research project engineering a unified CNN + Transformer architectur
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshsingh01&repo=ai-compiler-diagnosis&theme=tokyonight&border_color=6366f1" />
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ankeshsingh01&repo=ai-compiler-diagnosis&theme=tokyonight&border_color=6366f1" />
 
 **AI-Assisted Compiler with Intelligent Error Diagnosis**
 
@@ -94,7 +94,7 @@ Real-time C-language syntax error detection via N-gram modeling and a Random For
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankeshsingh01&repo=agentic-ai-swe-assistant&theme=tokyonight&border_color=6366f1" />
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ankeshsingh01&repo=agentic-ai-swe-assistant&theme=tokyonight&border_color=6366f1" />
 
 **Agentic AI Software Engineering Assistant**
 
@@ -138,12 +138,12 @@ Multi-agent platform (Planner, Researcher, Coder, Reviewer) using RAG and LLM or
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankeshsingh01&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=6366f1&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshsingh01&layout=compact&theme=tokyonight&border_color=6366f1&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ankeshsingh01&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=6366f1&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankeshsingh01&layout=compact&theme=tokyonight&border_color=6366f1&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=ankeshsingh01&theme=tokyonight&border=6366f1&ring=6366f1&fire=22d3ee&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankeshsingh01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ankeshsingh01&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&title=Stars,Commits,Followers,Repositories" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankeshsingh01&theme=tokyo-night&color=6366f1&line=6366f1&point=22d3ee&area=true&hide_border=true" />
 
