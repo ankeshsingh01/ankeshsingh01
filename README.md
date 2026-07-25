@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22d3ee&height=230&section=header&text=Ankesh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20Researcher&descAlignY=55&descSize=18&descColor=e2e8f0" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Designing+Multi-Agent+AI+Systems;Deep+Learning+%2B+NLP+%2B+RAG;B.Tech+CSE+%40+Graphic+Era+Hill+University;Turning+Research+into+Production" />
